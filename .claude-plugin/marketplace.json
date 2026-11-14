@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-actors",
+  "description": "Role-based actors (BA, architect, data analyst, QA, devops...) and stack skills, shared across projects.",
+  "owner": {
+    "name": "quantum-idea"
+  },
+  "plugins": [
+    {
+      "name": "actors",
+      "description": "Role-based subagents + actor-router and stack skills (Laravel, CI3, CI4, vanilla JS).",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

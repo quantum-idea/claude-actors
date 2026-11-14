@@ -1,0 +1,8 @@
+{
+  "name": "actors",
+  "description": "Role-based subagents (business-analyst, solution-architect, data-analyst, qa-tester, devops...) with an actor-router skill and stack skills.",
+  "version": "0.1.0",
+  "author": {
+    "name": "quantum-idea"
+  }
+}
